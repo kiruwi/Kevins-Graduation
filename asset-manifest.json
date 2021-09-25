@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Kevins-Gradutation/static/css/main.579c967e.chunk.css",
+    "main.js": "/Kevins-Gradutation/static/js/main.099ba60f.chunk.js",
+    "main.js.map": "/Kevins-Gradutation/static/js/main.099ba60f.chunk.js.map",
+    "runtime-main.js": "/Kevins-Gradutation/static/js/runtime-main.18130727.js",
+    "runtime-main.js.map": "/Kevins-Gradutation/static/js/runtime-main.18130727.js.map",
+    "static/js/2.79821ace.chunk.js": "/Kevins-Gradutation/static/js/2.79821ace.chunk.js",
+    "static/js/2.79821ace.chunk.js.map": "/Kevins-Gradutation/static/js/2.79821ace.chunk.js.map",
+    "index.html": "/Kevins-Gradutation/index.html",
+    "static/css/main.579c967e.chunk.css.map": "/Kevins-Gradutation/static/css/main.579c967e.chunk.css.map",
+    "static/js/2.79821ace.chunk.js.LICENSE.txt": "/Kevins-Gradutation/static/js/2.79821ace.chunk.js.LICENSE.txt",
+    "static/media/contactform.svg": "/Kevins-Gradutation/static/media/contactform.7aac3cfe.svg",
+    "static/media/designprocess.svg": "/Kevins-Gradutation/static/media/designprocess.0cd32711.svg",
+    "static/media/dsgncircles.80501912.svg": "/Kevins-Gradutation/static/media/dsgncircles.80501912.svg",
+    "static/media/logodesign.bcb58880.svg": "/Kevins-Gradutation/static/media/logodesign.bcb58880.svg",
+    "static/media/me.png": "/Kevins-Gradutation/static/media/me.87ade251.png",
+    "static/media/onlineart.fa4db6f8.svg": "/Kevins-Gradutation/static/media/onlineart.fa4db6f8.svg",
+    "static/media/video.fef58b57.mp4": "/Kevins-Gradutation/static/media/video.fef58b57.mp4",
+    "static/media/work.png": "/Kevins-Gradutation/static/media/work.20fe6a0f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18130727.js",
+    "static/js/2.79821ace.chunk.js",
+    "static/css/main.579c967e.chunk.css",
+    "static/js/main.099ba60f.chunk.js"
+  ]
+}
